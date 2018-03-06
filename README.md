@@ -1,5 +1,9 @@
 # Сборник уроков по Python от Алексея Умнова
 
+По [этой ссылке](https://nbviewer.jupyter.org/github/microcoder/course-python-a.umnov/blob/master/index.ipynb) доступна текстовая версия курса для чтения материалов в онлайне через сервис https://nbviewer.jupyter.org
+
+# Оригинальные материалы
+
 1. Основы Python (Часть 1) - https://www.youtube.com/watch?v=VP2wRhwlg6c
 2. Основы Python (Часть 2) - https://www.youtube.com/watch?v=uUTudEHkNVA
 3. Объекто-ориентированное программирование в Python - https://www.youtube.com/watch?v=4RxAbBqqsqE
